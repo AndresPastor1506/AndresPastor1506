@@ -8,6 +8,7 @@ I'm looking for roles in **financial data analysis and process automation**, whe
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Invoice Extraction with an LLM**](https://github.com/AndresPastor1506/invoice-extraction-llm) | Scanned invoices in any layout → validated Excel. Claude vision + tool use, plus accounting checks (base + VAT − IRPF = total). Used on 221 real invoices, **97 %** extracted correctly. | Claude API · pdf2image · openpyxl · pytest |
 | [**ATP Match Prediction**](https://github.com/AndresPastor1506/atp-match-prediction) | Pre-match winner prediction on 34 years of ATP data, with a leakage-free form feature and a temporal split. XGBoost, **ROC-AUC 0.765**. | pandas · scikit-learn · XGBoost |
 | [**Traffic Sign Recognition**](https://github.com/AndresPastor1506/traffic-sign-recognition) | CNN classifier (**96.3 %** on GTSRB test) + YOLOv8 detector (**mAP@50 0.93**) joined in a Gradio demo. | TensorFlow · YOLOv8 · OpenCV · Gradio |
 | [**StatsTracker**](https://github.com/AndresPastor1506/StatsTracker-Proyecto-Master) | Analysis of 30k matches from Europe's top five leagues: home advantage, COVID's empty stadiums, VAR, comebacks. | pandas · OOP · seaborn · ipywidgets |
