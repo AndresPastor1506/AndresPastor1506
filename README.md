@@ -1,6 +1,6 @@
 ## Hi, I'm Andrés 👋
 
-Economist turned data scientist, based in Madrid. I work at an accounting firm, where I automate the work I used to do by hand with Python: bank reconciliation, LLM-based invoice data extraction and generation of statutory accounting books. I'm finishing a **Master in Big Data, AI and Python** (CEI, Madrid).
+Economist turned data scientist, based in Madrid. I work at an accounting firm, where I automate the work I used to do by hand with Python: bank reconciliation, LLM-based invoice data extraction and generation of statutory accounting books. I hold a **Master in Big Data, AI and Python** (CEI, Madrid, 2026).
 
 I'm looking for roles in **financial data analysis and process automation**, where knowing both the data and the accounting behind it makes the difference.
 
